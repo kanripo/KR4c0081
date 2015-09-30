@@ -1,9 +1,10 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 李羣玉詩集
-#+DATE: 2015-09-11 08:38:00.866928
-#+PROPERTY: ID KR4c0081
-#+PROPERTY: BASEEDITION SBCK    
-#+PROPERTY: WITNESS SBCK
+# -*- mode: mandoku-view -*-
+#+TITLE: 李群玉詩集
+#+DATE: 2015-09-23 10:18:54
+#+PROPERTY: LASTPB  <md:KR4c0081_SBCK_003-1a>
 #+PROPERTY: JUAN 4
-#+PROPERTY: FILE SB04n0302-004李羣玉詩集-後序.
-<pb:KR4c0081_SBCK_004-1a>¶
+
+<md:KR4c0081_SBCK_003-10b>¶
+<md:KR4c0081_SBCK_004-1a>¶
+<pb:KR4c0081_WYG_004-1a>
+欽
